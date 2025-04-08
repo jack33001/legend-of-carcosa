@@ -8,4 +8,4 @@
 
 ------------------------------------------------------------------------
 
-May take the form of a crow(s).
+May take the form of a crow(s). Uses black crows with two pupils for spying.

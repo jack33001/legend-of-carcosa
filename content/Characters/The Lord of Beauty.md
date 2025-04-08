@@ -8,6 +8,6 @@
 
 ------------------------------------------------------------------------
 
-The ruler of [[The Sparkling Quarter]]. Their appearance changes often, with the only consistency being orange eyes. Uses white crows with two pupils for spying.
+The ruler of [[The Sparkling Quarter]]. Their appearance changes often, with the only consistency being orange eyes. 
 
 Killed by [[The Blackstars]] in [[Session 11]]. 

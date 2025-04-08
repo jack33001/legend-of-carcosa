@@ -4,8 +4,8 @@
 
 **Characters:**
 
-**Locations:** [[Aphun's Tower]]
+**Locations:** [[The Rust Queen's Castle]]
 
 ------------------------------------------------------------------------
 
-The wizard of [[Pillartown]]. A one-eyed elf.
+A huge earth genasi, and the one in charge of [[Pillartown]].
