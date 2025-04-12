@@ -2,11 +2,11 @@
 
 **Title:** **
 
-**Date:**
+**Date:** 4-6-2025
 
-**Locations:**
+**Locations:** [[Pillartown]], [[The Sway]]
 
-**Characters:**
+**Characters:** [[The Rust Queen]]
 
 **Groups:**
 
@@ -47,7 +47,7 @@
 				- Liches
 					- Doesn't realize they're still around
 		- Jobs
-			- There's something hidden in [[The Sunken Choir]]
+			- There's something hidden in [[The Sunken Basilica]]
 				- She's sent a number of people in, but they haven't returned
 				- The city rumbles at night, and their numbers grow. [[The Rust Queen]] worries she will lose power to [[The Sunken Choir]]
 	- The rest of the party goes to [[Aphun's Tower]] to pick up a [[Meridian]]

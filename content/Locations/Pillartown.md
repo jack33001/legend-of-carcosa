@@ -15,7 +15,7 @@ A large shanty town made of rocks jutting out of an island in the bay between bo
 [[Pillartown Market]]
 [[The Washout]]
 [[The Sway]]
-[[The Submerged Church]]
+[[The Sunken Basilica]]
 [[Aphun's Tower]]
 [[The Embedded Ship]]
 # Groups

@@ -39,7 +39,7 @@
 			- Hen approaches them, asking to let him join (he plans to use [[The Doorknob]] to sink their ship)
 			- They tell him he need to steal whatever is in [[Adder]]'s bag
 			- He steals 50 gold (with [[Adder]]'s consent)
-		- [[The Sunken Choir]] will have a ceremony soon
+		- [[The Sunken Basilica]] will have a ceremony soon
 	- [[Jeraime]] looks for informants
 	- [[Adder]] leaves early to tell [[Nos]] about the pirates' plan to operate off the coast of [[Ny'al]]
 	- [[Etron]] returns to the preacher on the corner
