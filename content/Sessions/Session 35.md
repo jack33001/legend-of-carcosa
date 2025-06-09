@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-**Title:** **
+**Title:** *Shantytown Shakedown*
 
 **Date:** 3-2-2025
 
@@ -16,8 +16,7 @@
 - Session begins aboard [[The Second Sunset]]
 	- We decide not to open [[The Amphora]]s, but decide we want to figure out how much people are buying/selling them for
 - Returning to [[RatPack's Wharf]], we return the shipment we'd retreived
-- Walking to [[The Washout]], a woman is shouting atop a set of boxes. She's screaming some sort of prophecy (she sounds nuts)
-![[Pasted image 20250302120756.png]]
+- Walking to [[The Washout]], a woman is shouting atop a set of boxes. She's screaming some sort of prophecy (she sounds nuts) [[Madrigal's Sermon]]
 - At [[The Washout]]:
 	- Gino sits down and chats with some people
 		- It's generally believed that the pillars *were not always here*
@@ -55,7 +54,7 @@
 - [[Etron]] talks with [[Madrigal the Mad Prophet]] after she collapses
 	- She keeps talking about losing an orb (a [[Reverie]]?)
 	- [[Etron]] detects magic on her, and finds nothing
-		- Her madness is not magical, but fro something genuinely maddening to see
+		- Her madness is not magical, but from something genuinely maddening to see
 
 - The next day, [[The Blackstars]] head to [[The Sway]], but are sidetracked by flashing lights at [[Aphun's Tower]]
 	- [[The Kirrasa]] are laying siege to the tower!

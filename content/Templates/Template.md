@@ -1,5 +1,5 @@
 <%*
-const typeField = await tp.system.prompt("Enter the type (Character, Location, Session, Group, Item):");
+const typeField = await tp.system.prompt("Enter the type (Character, Location, Session, Group, Item, Document):");
 let folderName;
 
 if (typeField.toLowerCase() === "character") {
@@ -12,6 +12,8 @@ if (typeField.toLowerCase() === "character") {
     folderName = "Groups";
 } else if (typeField.toLowerCase() === "item") {
     folderName = "Items";
+} else if (typeField.toLowerCase() === "document") {
+	folderName = "Library";
 } else {
     folderName = "Misc";
 }
@@ -82,6 +84,17 @@ if (typeField.toLowerCase() === "character") {
 **Groups:**
 
 **Locations:**
+`
+    bodyContent = `
+`;
+// Item
+} else if (typeField.toLowerCase() === "document") {
+	headerContent=  `
+**Location Acquired:**
+
+**Group Acquired From:**
+
+**Author/Source:**
 `
     bodyContent = `
 `;

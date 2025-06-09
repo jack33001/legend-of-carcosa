@@ -1,11 +1,11 @@
 ------------------------------------------------------------------------
 
+**Groups:**
+
 **Characters:**
 
-**Locations:** [[Carcosa]]
+**Locations:** [[Below the Sunken Basilica]]
 
 ------------------------------------------------------------------------
 
-Run by [[The Conspirator]]
-
-Large network of thieves, scammers, etc run out of [[Carcosa]].
+A smaller version of the sea star [[Below the Sunken Basilica]], which [[The Blackstars]] vanquished. 
