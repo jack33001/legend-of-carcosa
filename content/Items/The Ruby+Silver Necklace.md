@@ -2,7 +2,7 @@
 
 **Groups:** [[The Roecrin Family]], [[The Ny'alkosh Family]]
 
-**Characters:** [[Adder]], 
+**Characters:** [[Adder]]
 
 ------------------------------------------------------------------------
 
