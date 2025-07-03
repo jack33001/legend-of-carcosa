@@ -79,11 +79,11 @@ if (typeField.toLowerCase() === "character") {
 // Item
 } else if (typeField.toLowerCase() === "item") {
 	headerContent=  `
-**Characters:**
+**Location Acquired:**
 
-**Groups:**
+**Group/Character Acquired From:**
 
-**Locations:**
+**Group/Character In Possession:**
 `
     bodyContent = `
 `;
