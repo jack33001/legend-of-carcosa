@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Etron]]
+**Location Acquired:** [[The Frozen Village]]
 
-**Groups:** [[Old Gods]]
+**Group/Character Acquired From:** [[Old Gods]]
 
-**Locations:** [[The Frozen Village]]
-
-**Tags**: [[The Age of Apostesy]]
+**Group/Character In Possession:** [[Etron]]
 
 ------------------------------------------------------------------------
 

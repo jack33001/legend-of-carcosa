@@ -4,7 +4,7 @@
 
 **Date:** 1/29/2024
 
-**Locations:** [[The Sea]], [[The Barge]], [[Ny'al]]
+**Locations:** [[The Sea]], [[The Second Sunset]], [[Ny'al]]
 
 **Characters:** [[Yuker]]
 

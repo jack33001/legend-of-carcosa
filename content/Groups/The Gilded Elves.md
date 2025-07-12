@@ -2,7 +2,7 @@
 
 **Characters:** [[Hatsur]]
 
-**Locations:** [[The Continent]]
+**Locations:** [[The Continent]], [[Old Carcosa]]
 
 ------------------------------------------------------------------------
 

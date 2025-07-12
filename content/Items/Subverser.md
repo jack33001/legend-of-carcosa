@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Gino]], [[Rux]]
+**Location Acquired:**
 
-**Groups:**
+**Group/Character Acquired From:** [[Rux]]
 
-**Locations:**
+**Group/Character In Possession:** [[Gino]]
 
 **Tags:** [[Rux's Items]]
 

@@ -1,16 +1,16 @@
 ------------------------------------------------------------------------
 
-**Characters:** 
+**Location Acquired:** [[Seafoam Tower]]
 
-**Groups:** [[The Blackstars]]
+**Group/Character Acquired From:** [[Breeze]]
 
-**Locations:** [[Breeze's Towers]], [[Nyopsis]]
+**Group/Character In Possession:** [[The Blackstars]]
 
 ------------------------------------------------------------------------
 
 ![[Memory of Wanderlust.jpeg]]
 
-The item was found in [[Session 12]] after defeating the [[Mandragora]] at the top of [[Breeze's Towers]] in [[Nyopsis]].
+The item was found in [[Session 12]] after defeating the [[Mandragora]] at the top of the [[Seafoam Tower]] in [[Nyopsis]].
 
 This item is currently in the possession of [[The Blackstars]] and resides inside of [[The Second Sunset]], serving as a teleportation circle in the vessel.
 

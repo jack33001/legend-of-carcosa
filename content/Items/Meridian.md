@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Aphun]]
+**Location Acquired:** [[Aphun's Tower]]
 
-**Groups:**
+**Group/Character Acquired From:** [[Aphun]]
 
-**Locations:**
+**Group/Character In Possession:** [[The Blackstars]]
 
 ------------------------------------------------------------------------
 

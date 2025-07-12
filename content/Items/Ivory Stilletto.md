@@ -1,16 +1,16 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Gino]]
+**Location Acquired:**
 
-**Groups:**
+**Group/Character Acquired From:**
 
-**Locations:**
+**Group/Character In Possession:** [[Gino]]
 
 ------------------------------------------------------------------------
 
 ![[Ivory Stilleto 1.jpeg]]
 
-ADD INFO ON OBTAINING THIS ITEM - WAS FOUND IN SESSION 6??
+ADD INFO ON OBTAINING THIS ITEM - WAS FOUND IN SESSION 6?? [[Needs Work]]
 
 This item is currently held and attuned to by [[Gino]].
 

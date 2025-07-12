@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Gattenk]], [[Gimp]]
+**Location Acquired:** [[Countryside]]
 
-**Groups:**
+**Group/Character Acquired From:** [[Gimp]]
 
-**Locations:**
+**Group/Character In Possession:** [[Gattenk]]
 
 ------------------------------------------------------------------------
 

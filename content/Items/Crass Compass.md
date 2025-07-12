@@ -1,15 +1,15 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Gino]]
+**Location Acquired:**
 
-**Groups:**
+**Group/Character Acquired From:**
 
-**Locations:**
+**Group/Character In Possession:** [[Gino]]
 
 ------------------------------------------------------------------------
 ![[Crass Compass.jpeg]]
 
-ADD INFO ON HOW ITEM WAS OBTAINED, SESSION 9?
+ADD INFO ON HOW ITEM WAS OBTAINED, SESSION 9? [[Needs Work]]
 
 This item is currently held by [[Gino]].
 

@@ -1,16 +1,16 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Gattenk]]
+**Location Acquired:** 
 
-**Groups:**
+**Group/Character Acquired From:**
 
-**Locations:**
+**Group/Character In Possession:** [[Gattenk]]
 
 ------------------------------------------------------------------------
 
 ![[Graftkeepers Blade.jpeg]]
 
-ADD INFO ON OBTAINING ITEM, SESSION 10?
+ADD INFO ON OBTAINING ITEM, SESSION 10? [[Needs Work]]
 
 This item is currently held and attuned to by [[Gattenk]].
 

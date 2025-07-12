@@ -1,14 +1,14 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Etron]]
+**Location Acquired:** [[Corpsestone Mountain]]
 
-**Groups:**
+**Group/Character Acquired From:** 
 
-**Locations:**
+**Group/Character In Possession:** [[Etron]]
 
 ------------------------------------------------------------------------
 
-The item was obtained in [[Session 31]] as the remains of the Great Best.
+The item was obtained in [[Session 31]] as the remains of the Great Beast of [[Corpsestone Mountain]].
 
 This item is currently held and attuned to by [[Etron]]. It is equipped by one of his [[Ecorche]].
 

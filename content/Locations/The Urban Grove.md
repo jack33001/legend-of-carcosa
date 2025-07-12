@@ -4,7 +4,7 @@
 
 **Location Type:** [[Building]]
 
-**Parent Location: [[Carcosa]]**
+**Parent Location:** [[Carcosa]]
 
 ------------------------------------------------------------------------
 

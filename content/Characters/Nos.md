@@ -4,7 +4,7 @@
 
 **Characters:**
 
-**Locations:** [[Ny'al]], [[The Barge]]
+**Locations:** [[Ny'al]], [[The Second Sunset]]
 
 ------------------------------------------------------------------------
 

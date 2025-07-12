@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Gattenk]], [[Yuker]]
+**Location Acquired:** [[Ny'al]]
 
-**Groups:** 
+**Group/Character Acquired From:** [[Yuker]]
 
-**Locations:**
+**Group/Character In Possession:**  [[Gattenk]]
 
 ------------------------------------------------------------------------
 

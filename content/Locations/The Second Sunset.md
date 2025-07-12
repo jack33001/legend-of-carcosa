@@ -8,4 +8,4 @@
 
 ------------------------------------------------------------------------
 
-The formal name for [[The Barge]].
+The formal name for [[The Barge]] and a floating home for [[The Blackstars]]. An old smuggling ship, converted into a home base.

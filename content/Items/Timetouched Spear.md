@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:**
+**Location Acquired:** [[The Frozen Village]]
 
-**Groups:**
+**Group/Character Acquired From:**
 
-**Locations:** [[The Frozen Village]]
+**Group/Character In Possession:** [[Hen]]
 
 ------------------------------------------------------------------------
 

@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Gattenk]]
+**Location Acquired:** [[Below the Sunken Basilica]]
 
-**Groups:**
+**Group/Character Acquired From:** [[The Sunken Choir]]
 
-**Locations:** [[Below the Sunken Basilica]]
+**Group/Character In Possession:** [[Gattenk]]
 
 ------------------------------------------------------------------------
 

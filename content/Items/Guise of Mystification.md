@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Gino]]
+**Location Acquired:** [[The Bastion]]
 
-**Groups:**
+**Group/Character Acquired From:** 
 
-**Locations:** [[The Dehm]], [[The Bastion]]
+**Group/Character In Possession:** [[Gino]]
 
 ------------------------------------------------------------------------
 

@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Hen]], [[The Lord of Beauty]]
+**Location Acquired:** [[The Common Palace]]
 
-**Groups:**
+**Group/Character Acquired From:** [[The Lord of Beauty]]
 
-**Locations:**
+**Group/Character In Possession:** [[Hen]]
 
 ------------------------------------------------------------------------
 

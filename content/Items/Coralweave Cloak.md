@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Phari]]
+**Location Acquired:** [[Ny'al]]
 
-**Groups:**
+**Group/Character Acquired From:**
 
-**Locations:** [[Ny'al]]
+**Group/Character In Possession:** [[Phari]]
 
 ------------------------------------------------------------------------
 

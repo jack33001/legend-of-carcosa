@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:**
+**Location Acquired:** [[The Teeth]]
 
-**Groups:**
+**Group/Character Acquired From:** [[L’ombra Profonda (The Tartuffo Family)]]]
 
-**Locations:** [[The Teeth]]
+**Group/Character In Possession:** [[Etron]]
 
 ------------------------------------------------------------------------
 

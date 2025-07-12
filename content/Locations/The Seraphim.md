@@ -2,7 +2,7 @@
 
 **Factions:** [[The Beholden]]
 
-**Location Type:** Building
+**Location Type:** [[Building]]
 
 **Parent Location:** [[Carcosa]]
 

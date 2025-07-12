@@ -1,16 +1,14 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Adder]]
+**Location Acquired:** [[Carcosa]]
 
-**Groups:**
-
-**Locations:** [[Carcosa]]
+**Group/Character In Possession:** [[Adder]]
 
 ------------------------------------------------------------------------
 
 ![[Rusted Pride.jpeg]]
 
-ADD INFO ON OBTAINMENT, SESSION 12 in the abandoned wizard tower
+ADD INFO ON OBTAINMENT, SESSION 12 in the abandoned wizard tower [[Needs Work]]
 
 This item is currently held and attuned to by [[Adder]].
 

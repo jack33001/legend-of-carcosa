@@ -1,6 +1,10 @@
 ------------------------------------------------------------------------
 
-**Relations:** [[The Lord of Puppets]
+**Location Acquired:** [[Ny'al]]
+
+**Group/Character Acquired From:** [[The Lord of Puppets]]
+
+**Group/Character In Possession:** [[The Blackstars]]
 
 ------------------------------------------------------------------------
 

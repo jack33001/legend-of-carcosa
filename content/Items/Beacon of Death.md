@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Etron]]
+**Location Acquired:** [[The Sarkaeus]]
 
-**Groups:** [[Old Gods]]
+**Group/Character Acquired From:** 
 
-**Locations:**
+**Group/Character In Possession:** [[Etron]]
 
 ------------------------------------------------------------------------
 

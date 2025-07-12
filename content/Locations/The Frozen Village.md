@@ -14,4 +14,7 @@ A village frozen in time countless years ago, apparently in the middle of an exp
 Library
 Armory
 Church 
-Nucleus
+Nucleus - which contained the magic item [[Fatespiral]].
+
+
+[[needs work]]

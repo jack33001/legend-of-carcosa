@@ -4,7 +4,7 @@
 
 **Location Type:** [[City]]
 
-**Parent Location:** [[The Continent]]
+**Parent Location:** [[The Dehm]], [[The Continent]]
 
 ------------------------------------------------------------------------
 

@@ -1,6 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Etron]]
+**Location Acquired:**
+
+**Group/Character Acquired From:**
+
+**Group/Character In Possession:** [[Etron]]
 
 ------------------------------------------------------------------------
 
@@ -8,4 +12,4 @@ A spyglass with a broken teleportation rune inscribed into it. Upon being repair
 
 This item is currently held by [[Etron]].
 
-OBTAINED IN SESSION 7, add more info at a later date
+OBTAINED IN SESSION 7, add more info at a later date [[Needs Work]]

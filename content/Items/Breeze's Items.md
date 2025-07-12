@@ -2,10 +2,6 @@
 
 **Characters:** [[Breeze]]
 
-**Groups:** [[The Lords of Carcosa]]
-
-**Locations:** 
-
 ------------------------------------------------------------------------
 
 The merchant [[Breeze]] sells an assortment of interesting and rare magical items. A list of items and their description is included here:

@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Phari]], [[Rux]]
+**Location Acquired:**
 
-**Groups:**
+**Group/Character Acquired From:** [[Rux]]
 
-**Locations:** 
+**Group/Character In Possession:** [[Phari]]
 
 **Tags:** [[Rux's Items]]
 

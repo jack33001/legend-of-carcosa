@@ -1,11 +1,13 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[The Prefect]]
+**Location Acquired:** [[The Floating Bazaar]]
 
-**Groups:** [[The Red Quarter Rebels]]
+**Group/Character Acquired From:** [[The Prefect]]
 
-**Locations:** [[The Floating Bazaar]]
+**Group/Character In Possession:**
 
 ------------------------------------------------------------------------
 
 A staff held by [[The Prefect]], which was used to direct the gaze (and fire) of [[The Leviathan]].
+
+[[Needs Work]] who holds this?

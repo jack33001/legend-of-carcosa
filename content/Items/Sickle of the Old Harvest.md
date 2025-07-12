@@ -1,10 +1,8 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Etron]]
+**Location Acquired:** [[The Bastion]]
 
-**Groups:**
-
-**Locations:**
+**Group/Character In Possession:** [[Etron]]
 
 ------------------------------------------------------------------------
 

@@ -1,16 +1,16 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Hen]]
+**Location Acquired:**
 
-**Groups:**
+**Group/Character Acquired From:**
 
-**Locations:**
+**Group/Character In Possession:** [[Hen]]
 
 ------------------------------------------------------------------------
 
 ![[Mantle of the Ram.jpeg]]
 
-ADD INFO ON OBTAINMENT, SESSION 9?
+ADD INFO ON OBTAINMENT, SESSION 9? [[Needs Work]]
 
 This item is currently held and attuned to by [[Hen]].
 

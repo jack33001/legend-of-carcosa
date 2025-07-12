@@ -35,7 +35,7 @@
 - He has also extended the lesson of spell weaving
 - Knows little of the Yellow King
 - False liches were far more common pre-[[The Age of Apostesy]]
-- [[Da Lo Lensky]] teleports us back to [[The Barge]]
+- [[Da Lo Lensky]] teleports us back to [[The Second Sunset]]
 - Leave the corpse beast
 - Take watch on an Island we moor at - feels as we are being watched
 - Next day uneventful, as the night ends we smell the sea, about only a day away

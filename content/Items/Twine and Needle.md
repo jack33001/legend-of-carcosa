@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Jeraime]]
+**Location Acquired:** [[The Sarkaeus]]
 
-**Groups:** 
+**Group/Character Acquired From:**
 
-**Locations:**
+**Group/Character In Possession:** [[Jeraime]]
 
 ------------------------------------------------------------------------
 

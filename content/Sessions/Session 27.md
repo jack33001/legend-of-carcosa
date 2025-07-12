@@ -4,7 +4,7 @@
 
 **Date:** 11/6/2024
 
-**Locations:** [[Ny'al]], [[The Barge]], [[The Sea]]
+**Locations:** [[Ny'al]], [[The Second Sunset]], [[The Sea]]
 
 **Characters:** [[Ardhall]], [[The King and Queen of Ny'al]], [[The Lord of the Hunt]]
 

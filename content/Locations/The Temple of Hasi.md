@@ -1,8 +1,8 @@
 ------------------------------------------------------------------------
 
-**Factions:** 
+**Factions:** [[The Ny'alkosh Family]]
 
-**Location Type:**[[Building]]
+**Location Type:** [[Building]]
 
 **Parent Location:** [[Ny'al]]
 

@@ -13,6 +13,5 @@ A huge floodplain spilling into the continent from [[The Throat]]. "An artery of
 # Points of Interest
 [[The Frozen Village]]
 [[Corpsestone Mountain]]
-The Wisp Mother
 
 ![[Pasted image 20250119143625.png]]

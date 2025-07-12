@@ -1,16 +1,16 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Jeraime]]
+**Location Acquired:**
 
-**Groups:**
+**Group/Character Acquired From:**
 
-**Locations:**
+**Group/Character In Possession:** [[Jeraime]]
 
 ------------------------------------------------------------------------
 
 ![[Longsword of Old Carcosa.jpeg]]
 
-This item is held and attuned to by [[Jeraime]].
+This item is held and attuned to by [[Jeraime]]. [[Needs Work]]
 
 _"The dangers in the dark are but a dream in passing"_
 

@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:**
+**Location Acquired:** [[Nyopsis]]
 
-**Groups:** [[The Kirrasa]]
+**Group/Character Acquired From:** [[The Kirrasa]]
 
-**Locations:**
+**Group/Character In Possession:** [[Etron]]
 
 ------------------------------------------------------------------------
 

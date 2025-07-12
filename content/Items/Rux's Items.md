@@ -2,10 +2,6 @@
 
 **Characters:** [[Rux]]
 
-**Groups:**
-
-**Locations:**
-
 ------------------------------------------------------------------------
 
 The merchant [[Rux]] sells an assortment of interesting and rare magical items. A list of items and their description is included here:

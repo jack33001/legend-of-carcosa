@@ -1,16 +1,16 @@
 ------------------------------------------------------------------------
 
-**Characters:**
+**Location Acquired:**
 
-**Groups:**
+**Group/Character Acquired From:**
 
-**Locations:**
+**Group/Character In Possession:**
 
 ------------------------------------------------------------------------
 
 ![[Snakebite Earband.jpeg]]
 
-ADD INFO ON OBTAINMENT SESSION 18? I believe this item was sold.
+ADD INFO ON OBTAINMENT SESSION 18? I believe this item was sold. [[Needs Work]]
 
 _Wondrous Item (earpiece), uncommon (requires attunement)_
 

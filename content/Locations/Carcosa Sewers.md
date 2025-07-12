@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-**Factions:**
+**Factions:** [[The Lords of Carcosa]]
 
 **Location Type:** [[Building]]
 
@@ -8,4 +8,6 @@
 
 ------------------------------------------------------------------------
 
-The sewers under [[Carcosa]], used by [[The Lords of Carcosa]] for sneaky business.
+The sewers under [[Carcosa]], used by [[The Lords of Carcosa]] for sneaky business. 
+
+[[Needs Work]]

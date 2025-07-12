@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Rux]]
+**Location Acquired:** 
 
-**Groups:**
+**Group/Character Acquired From:** 
 
-**Locations:**
+**Group/Character In Possession:** [[Rux]]
 
 **Tags:** [[Rux's Items]]
 

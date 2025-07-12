@@ -4,7 +4,7 @@
 
 **Location Type:** [[Geographical Feature]]
 
-**Parent Location:** [[The Continent]]
+**Parent Location:** [[The Continent]], [[The Maw]]
 
 ------------------------------------------------------------------------
 

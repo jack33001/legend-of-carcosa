@@ -4,7 +4,7 @@
 
 **Location Type:** [[Building]]
 
-**Parent Location:** [[The Bay of Carcosa]]
+**Parent Location:** [[The Bay of Carcosa]], [[Breeze's Towers]]
 
 ------------------------------------------------------------------------
 

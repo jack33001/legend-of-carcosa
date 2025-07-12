@@ -1,16 +1,16 @@
 ------------------------------------------------------------------------
 
-**Characters:**
+**Location Acquired:** [[Below the Sunken Basilica]]
 
-**Groups:**
+**Group/Character Acquired From:** [[The Sunken Choir]]
 
-**Locations:** [[Below the Sunken Basilica]]
+**Group/Character In Possession:**
 
 ------------------------------------------------------------------------
 
 This item was found in [[Session 40]] after killing the [[Scion]]. 
 
-This item is currently held by [[]].
+This item is currently held by .
 
 _Wondrous Item, Very Rare (requires attunement by a spellcaster)_  
 

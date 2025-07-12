@@ -1,10 +1,10 @@
 ------------------------------------------------------------------------
 
-**Characters:**
+**Location Acquired:**
 
-**Groups:**
+**Group/Character Acquired From:**
 
-**Locations:**
+**Group/Character In Possession:**
 
 ------------------------------------------------------------------------
 

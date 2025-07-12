@@ -1,16 +1,16 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Adder]]
+**Location Acquired:** [[The Strand]]
 
-**Groups:** [[The Gilded Elves]]
+**Group/Character Acquired From:** [[The Gilded Elves]]
 
-**Locations:** [[The Strand]]
+**Group/Character In Possession:** [[Adder]]
 
 ------------------------------------------------------------------------
 
 ![[Staff of Distant Shores.jpeg]]
 
-ADD INFO ON OBTAINMENT, SESSION 8 AND ??
+ADD INFO ON OBTAINMENT, SESSION 8 AND ?? [[Needs Work]]
 
 This item is currently held and attuned to by [[Adder]].
 

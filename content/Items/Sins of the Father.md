@@ -1,16 +1,16 @@
 ------------------------------------------------------------------------
 
-**Characters:**
+**Location Acquired:**
 
-**Groups:**
+**Group/Character Acquired From:**
 
-**Locations:**
+**Group/Character In Possession:**
 
 ------------------------------------------------------------------------
 
 ![[Sins of the Father.jpeg]]
 
-ADD INFO ON OBTAINMENT, SESSION 12??
+ADD INFO ON OBTAINMENT, SESSION 12?? [[Needs Work]]
 
 This item was held by [[Etron]] until it was sold to Breeze??
 
