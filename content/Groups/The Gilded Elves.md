@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-**Characters:** [[Hatsur]]
+**Characters:** [[Hastur]]
 
 **Locations:** [[The Continent]], [[Old Carcosa]]
 

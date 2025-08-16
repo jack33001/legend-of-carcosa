@@ -20,7 +20,7 @@ const Subtitle: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
         textAlign: 'center',
         opacity: 0.9,
       }}>
-        379
+        369
       </div>
     </div>
   ) 

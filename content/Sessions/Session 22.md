@@ -25,7 +25,7 @@
 	- Carcosa ledger: contains info categorizing king in yellow and Carcosa 
 	- Present [[Carcosa]]: [[The Lord of Puppets]] believed to have a true body somewhere. [[The Lady of The Grove]] has never left grove (weakness?). [[The Lord of the Hunt]] has never been seen and may be a polymorphist. [[The Lord of Beauty]], deceased. [[The Lord of Scribes]] physically frail but mentally strong, can affect the world through written word. [[The Lord of Swords]], do not engage. [[The Lord of Flesh]] has been seen in multiple locations at once. [[The Mistress of War]] do not engage. [[The Champion]] do not engage. [[The Lord of Blood]] reported to exist. [[The Lord of the Bay]] reported to exist (Assumed to be [[Breeze]]), current expedition. 
 	- Primary patron of [[The Kirrasa]] is [[The Conspirator]]
-	- Carcosa archeology: some mention and sketches of ancient Carcosans - similar to statues and reliefs in the [[The Dehm]]. Next expedition in [[The Dehm]], uncovered a [[Reverie]] (large blue circular gem) made by [[Hatsur]] who created this technology. Details lightly about vestiges of dead gods - casualties of dead gods located at the remains of old Carcosa. People have looted these remains before. 
+	- Carcosa archeology: some mention and sketches of ancient Carcosans - similar to statues and reliefs in the [[The Dehm]]. Next expedition in [[The Dehm]], uncovered a [[Reverie]] (large blue circular gem) made by [[Hastur]] who created this technology. Details lightly about vestiges of dead gods - casualties of dead gods located at the remains of old Carcosa. People have looted these remains before. 
 - [[Athelia]]'s potion gave us weakness to fire damage for five days. 
  
 

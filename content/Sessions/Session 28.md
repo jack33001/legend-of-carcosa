@@ -32,7 +32,7 @@
 - The necromancer [[Da Lo Lensky]] is a past customer of [[The Librarian]]. Will give no more knowledge on him. 
 - A sleazy looking sailor approached the party at the festival, and told the party that he can help navigate the Maw after the wisp mother dissipates. [[Montez]] can be found at the Choke.
 - Reading the papers about the orb I find that ‘The Clue to understand all that father gave to us is in these orbs. With a collection of several orbs I have a rather-'
-- Touching the orb I wake in another body, a passenger. A lecture room, [[Hatsur]]’s first orb, a [[Reverie]]. There will be [[Reverie]]s which explain the fall of [[Carcosa]].
+- Touching the orb I wake in another body, a passenger. A lecture room, [[Hastur]]’s first orb, a [[Reverie]]. There will be [[Reverie]]s which explain the fall of [[Carcosa]].
 - I must find the other [[Reverie]]s - I know there is one in [[The Dehm]] in the closet where the mage with the coral staff was found. 
 - [[Gattenk]] stared off into the water and saw a white fish which told him “to reject the hunger”
 - The following day we go to the town hall and talk to the city leaders about dealing with the Wisp Mother. They benefit more from the wisp mother happening now due to the festival. They would offer us a small reward of 2500 gp. [[Athelia]] wants us to collect some ectoplasm for potions - needs wisp tears. 
