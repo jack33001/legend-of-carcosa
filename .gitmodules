@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:jack33001/carcosa-notes.git
